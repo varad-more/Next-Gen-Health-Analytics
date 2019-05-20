@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorAccent"
+    tools:showIn="navigation_view"
+    android:textColor="@color/white">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/dpathosignup"
+            android:icon="@drawable/ic_alert"
+            android:textColor="@color/white"
+            android:title="Alerts for me" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_farea"
+            android:textColor="@color/white"
+            android:title="In My Area" />
+        <item
+            android:id="@+id/stats"
+            android:icon="@drawable/poll"
+            android:textColor="@color/white"
+            android:title="Statistics" />
+
+
+    </group>
+
+    <item android:title="Safety Measures">
+        <menu>
+            <item
+                android:id="@+id/disinfo"
+                android:icon="@drawable/ic_info"
+                android:textColor="@color/white"
+                android:title="Disease Information" />
+
+        </menu>
+    </item>
+    <item android:title="More">
+        <menu>
+
+            <item
+                android:id="@+id/health"
+                android:icon="@drawable/ic_contact"
+                android:textColor="@color/white"
+
+                android:title="Contact Local Health Department" />
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_menu_share"
+                android:textColor="@color/white"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>

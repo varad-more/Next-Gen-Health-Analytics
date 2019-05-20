@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Salert</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">search</string>
+    <string name="mypara">About Mumps is a viral infection that \nprimarily affects saliva-producing (salivary) \nglands that are located near your \nears. Mumps can cause swelling in one \nor both of these glands.\nStill mumps outbreak are \nseen in some areas generally \naffect those who aren’t vaccinated.\nComplications of mumps, such as hearing loss, \nare potentially serious but rare. There is no specific treatment for mumps.</string>
+    <string name="musymp">
+    The primary sign of mumps is swollen salivary glands that cause the cheeks to puff out. Other signs and symptoms may include:
+    •	Pain in the swollen salivary glands on one or both sides of your face
+    •	Pain while chewing or swallowing
+    •	Fever
+    •	Headache
+    •	Muscle aches
+    •	Weakness and fatigue
+    •	Loss of appetite
+
+
+
+    </string>
+
+    <string name="mumpsprevention">The best way to prevent mumps is to be vaccinated against the disease. Most people have immunity to mumps once they are fully vaccinated.
+The mumps vaccine is usually given as a combined measles-mumps-rubella (MMR) inoculation, which contains the safest and most effective form of each vaccine. Two doses of the MMR vaccine are recommended before a child enters school.
+</string>
+
+    <string name="mumpssymptoms">The primary sign of mumps is swollen salivary glands that cause the cheeks to puff out. Other signs and symptoms may include: \n1)Pain in the swollen salivary glands on one or both sides of your face \n2)Pain while chewing or swallowing \n3)Fever \n4)Headache \n5)Muscle aches \n6)Weakness and fatigue \n7)Loss of appetite</string>
+
+    <string name="aboutMumps">
+Mumps is a viral infection that primarily affects saliva-producing (salivary) glands that are located near your ears. Mumps can cause swelling in one or both of these glands.
+Still mumps outbreak are seen in some areas generally affect those who are not vaccinated.
+Complications of mumps, such as hearing loss, are potentially serious but rare. There is no specific treatment for mumps.
+</string>
+    <string name="mypara1"> Health Organization recommends an Integrated Vector Control program consisting of five elements: \n1.	Advocacy, social mobilization and legislation to ensure that public health bodies and communities are strengthened; \n2.	Collaboration between the health and other sectors (public and private); \n3.	An integrated approach to disease control to maximize use of resources; \n4.	Evidence-based decision making to ensure any interventions are targeted appropriately and \n5.	Capacity-building to ensure an adequate response to the local situation.
+    </string>
+    <string name="sympinfluenza">Symptoms include fever, chills, muscle aches, \ncough, congestion, runny nose, headaches and \nfatigue.
+\nPain areas: in the muscles
+\nCough: can be dry or with phlegm
+\nWhole body: chills, dehydration, fatigue, fever, flushing, loss of appetite, body ache, or sweating
+\nNasal: congestion, runny nose, or sneezing
+\nAlso common: chest pressure, head congestion, headache, nausea, shortness of breath, sore throat, or swollen lymph nodes
+</string>
+    <string name="influenzaabout">Commonly called as flu. It is a common viral infection that can be deadly, especially in high-risk groups. It is a contagious in nature, as it spreads easily.</string>
+
+    <string name="previnfluenza"> The single best way to prevent seasonal flu is to get vaccinated each year, but good health habits like covering your cough and washing your hands often can help stop the spread of germs and prevent respiratory illnesses like the flu. There also are flu antiviral drugs that can be used to treat and prevent flu.</string>
+    <string name="filsymptoms">
+    \nMost cases are symptomless. Rarely, long-term damage to the lymph system causes swelling in the legs, arms and genitalia. It also increases the risk of frequent bacterial infections that harden and thicken the skin (elephantiasis).
+        Common Symptoms: swelling or swollen lymph nodes.</string>
+
+
+    <string name="filriasisabout">
+\nFilariasis is a parasitic disease caused by an infection with roundworms of the Filarioidea type. These are spread by blood-feeding diptera as black flies and mosquitoes. This disease belongs to the group of diseases called helminthiases. Eight known filarial nematodes use humans as their definitive hosts.
+
+</string>
+    <string name="mypara5">Typically begin three to fourteen days after mosquito bite. \nThis may include a high fever, headache, vomiting, muscle and joint pains, and a characteristic skin rash. \nIn severe cases there is serious bleeding and shock, which can be life threatening.
+\nTransmission
+ \nDengue virus is primarily transmitted by Aedes mosquitos, particularly A. aegypti. These mosquitos usually live between the latitudes of 35° North and 35° South below an elevation of 1,000 metres (3,300 ft). They typically bite during the early morning and in the evening, but they may bite and thus spread infection at any time of day. </string>
+    <string name="mypara4">Dengue fever is a mosquito-borne tropical disease caused by the dengue virus.Dengue is spread by several species of female mosquitoes of the Aedes type, principally A. aegypti. The virus has five types; infection with one type usually gives lifelong immunity to that type, but only short-term immunity to the others. Subsequent infection with a different type increases the risk of severe complications. A number of tests are available to confirm the diagnosis including detecting antibodies to the virus or its RNA.    The virus has five types; infection with one type usually gives lifelong immunity to that type, but only short-term immunity to the others. Subsequent infection with a different type increases the risk of severe complications. A number of tests are available to confirm the diagnosis including detecting antibodies to the virus or its RNA.\nDISCLAIMER \nThe information provided above is only for knowledge purpose.The symptoms may vary from person to person.Individual should visit doctor and take medications accordingly. </string>
+    <string name="about"> \nOnly female mosquitoes spread malaria parasites. \nOnce the parasites enter the body, they travel to the liver, where they multiply. Then invade red blood cells, which are important cells in your blood that carry oxygen. The parasites get inside them, lay their eggs, and multiply until the red blood cell bursts. \nThere are five species of Plasmodium parasites that affect humans. Two of them are considered the most dangerous: \n1.	P. falciparum  \n2.	P. vivax</string>
+    <string name="disclaimer"> DISCLAIMER \nThe information provided above is only for knowledge purpose.The symptoms may vary from person to person.Individual should visit doctor and take medications accordingly.  </string>
+    <string name="prevention"> \n 1.Sleeping under a mosquito \n2.Covering your skin or using bug sprays containing DEET</string>
+    <string name="symptoms"> \nstart about 10 - 15 days after the infected mosquito bite. \nA blood test can confirm whether you have malaria. \n1.	high fever \n2.	shaking chills \n3.	sweating \n4.	Headache</string>
+
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.st.salert">
+<uses-permission android:name="android.permission.INTERNET"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DrloginFragment" />
+        <activity android:name=".Dengue" />
+        <activity
+            android:name=".Malaria"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".AboutActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".SymptomsActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".PreventionActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".DiseaseInfoListActivity"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Mumps" />
+        <activity android:name=".Malaria1" />
+        <activity android:name=".DengueAbout" />
+        <activity android:name=".DenguePrevention" />
+        <activity android:name=".DengueSymptoms" />
+        <activity android:name=".MumpsAbout" />
+        <activity android:name=".MumpsPrevention" />
+        <activity android:name=".MumpsSymptoms" />
+        <activity android:name=".Filariasis" />
+        <activity android:name=".AboutFilariasis" />
+        <activity android:name=".SymptomsFilariasis" />
+        <activity android:name=".PreventionFilariasis" />
+        <activity android:name=".Influenza" />
+        <activity android:name=".Dinfluenza" />
+        <activity android:name=".Aboutinfluenza" />
+        <activity android:name=".PreventionDinfluenza" />
+        <activity android:name=".SymptomsDinfluenza" />
+        <activity android:name=".Statistics"></activity>
+    </application>
+
+</manifest>

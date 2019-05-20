@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Statistics">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:gravity="center"
+            android:text="GENDER vs DISEASE"
+            android:onClick="doSomething"
+            android:id="@+id/stat1"/>
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:gravity="center"
+            android:onClick="doSomething"
+            android:text="STATE vs DISEASE"
+            android:id="@+id/stat2"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:onClick="doSomething"
+            android:gravity="center"
+            android:text="DISEASE VS COUNT PIE CHART"
+            android:id="@+id/stat3"/>
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

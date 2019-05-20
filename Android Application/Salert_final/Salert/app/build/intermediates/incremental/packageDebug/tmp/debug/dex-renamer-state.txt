@@ -1,0 +1,4 @@
+#Sun Mar 03 17:54:31 IST 2019
+base.0=C\:\\Users\\VARAD\\Desktop\\Salert_final\\Salert\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

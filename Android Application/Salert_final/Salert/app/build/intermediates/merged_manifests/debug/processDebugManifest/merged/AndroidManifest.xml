@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.st.salert"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.st.salert.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.st.salert.DrloginFragment" />
+        <activity android:name="com.example.st.salert.Dengue" />
+        <activity
+            android:name="com.example.st.salert.Malaria"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.example.st.salert.AboutActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.example.st.salert.SymptomsActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.example.st.salert.PreventionActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.example.st.salert.DiseaseInfoListActivity"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.example.st.salert.Mumps" />
+        <activity android:name="com.example.st.salert.Malaria1" />
+        <activity android:name="com.example.st.salert.DengueAbout" />
+        <activity android:name="com.example.st.salert.DenguePrevention" />
+        <activity android:name="com.example.st.salert.DengueSymptoms" />
+        <activity android:name="com.example.st.salert.MumpsAbout" />
+        <activity android:name="com.example.st.salert.MumpsPrevention" />
+        <activity android:name="com.example.st.salert.MumpsSymptoms" />
+        <activity android:name="com.example.st.salert.Filariasis" />
+        <activity android:name="com.example.st.salert.AboutFilariasis" />
+        <activity android:name="com.example.st.salert.SymptomsFilariasis" />
+        <activity android:name="com.example.st.salert.PreventionFilariasis" />
+        <activity android:name="com.example.st.salert.Influenza" />
+        <activity android:name="com.example.st.salert.Dinfluenza" />
+        <activity android:name="com.example.st.salert.Aboutinfluenza" />
+        <activity android:name="com.example.st.salert.PreventionDinfluenza" />
+        <activity android:name="com.example.st.salert.SymptomsDinfluenza" />
+        <activity android:name="com.example.st.salert.Statistics" />
+    </application>
+
+</manifest>
